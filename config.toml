@@ -1,15 +1,19 @@
 # Site settings
 baseurl = "http://jeanrintoul.github.io/projects"
 languageCode = "en-us"
+builddrafts = false
+canonifyurls = false
+
 title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
+
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 [params]
     # Meta
