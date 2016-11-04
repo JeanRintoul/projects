@@ -1,8 +1,9 @@
 # Site settings
-baseurl = "http://jeanrintoul.github.io/projects"
+# baseurl = "http://localhost:1313/projects/"
+baseurl = "https://jeanrintoul.github.io/projects/"
 languageCode = "en-us"
 builddrafts = false
-canonifyurls = false
+canonifyurls = true
 
 title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
