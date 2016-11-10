@@ -5,7 +5,7 @@ languageCode = "en-us"
 builddrafts = false
 canonifyurls = true
 
-title = "Hugrid - Grid Theme For Hugo"
+title = "Jean Rintoul Portfolio"
 theme = "hugrid"
 
 # Enter your tracking code to enable Google Analytics
@@ -18,17 +18,17 @@ publishdir = "docs"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    title = "Portfolio"
+    subtitle = "Selections from history, further information on request."
+    author = "Jean Rintoul"
+    description = "Portfolio - bits and pieces from the past."
+    keywords = "Neuroscience, electromagnetism, sensors, signal processing, art, nature"
     
     # Body background color
 	bodybgcolor = "#f9f9f9"
     
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "More Info"
     
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/jeanrintoul)"
