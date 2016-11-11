@@ -73,7 +73,7 @@ title = "MRI Imaging"
 image = "images/full/11.png"
 thumb = "images/thumbs/11.png"
 alt = "MRI Imaging"
-description = "At Gazzaley Lab I had access to a 3 Tesla System which I made the most of. Medical Imaging is fascinating and it's limited access slows down and limits medical advancement."
+description = "At Gazzaley Lab I had access to a 3 Tesla System which I made the most of. Medical Imaging is fascinating and it's limited access slows down and limits medical advancement. The image on the left is my own head processed in Osirix."
 #url = "https://github.com/aerohub/hugrid"
 [[items]]
 title = "Bistatic Synthetic Aperture Radar"
