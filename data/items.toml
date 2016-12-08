@@ -45,7 +45,7 @@ title = "PCB Design"
 image = "images/full/7.png"
 thumb = "images/thumbs/7.png"
 alt = "Electronics Design"
-description = "Several projects ranging from a plug and play bluetooth module that transfers standard UART data to an electrical impedance tomography design. I am most proficient in EagleCAD and have a thorough systematic approach. My designs have so far worked first rev. I have worked with BGAs, FCC pre-qualified bluetooth modules(I have opinions on efficient bluetooth implementation strategies for IOT), 24 bit ADC sensor modules, and am generally interested in understanding more about analog electronics."
+description = "Several projects ranging from a plug and play bluetooth module that transfers standard UART data to an electrical impedance tomography design. I am most proficient in EagleCAD and have a thorough systematic approach. My designs work so far. I have worked with BGAs, FCC pre-qualified bluetooth modules(I have opinions on efficient bluetooth implementation strategies for IOT), 24 bit ADC sensor modules, and am generally interested in understanding more about analog electronics."
 #url = "https://github.com/aerohub/hugrid"
 [[items]]
 title = "Electromagnetic Signature Detection"
