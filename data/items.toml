@@ -45,7 +45,7 @@ title = "PCB Design"
 image = "images/full/7.png"
 thumb = "images/thumbs/7.png"
 alt = "Electronics Design"
-description = "Early revision of Kiddo PCB, a plug and play bluetooth module that transfers standard UART data to an electrical impedance tomography design with 8 and 32 electrodes. I am proficient in EagleCAD as well as Altium and have a thorough systematic approach. My designs work so far. I have worked with BGAs, FCC pre-qualified bluetooth modules, 24 bit ADC sensor modules, and am generally interested in understanding more about analog electronics, particularly when it interfaces with the body."
+description = "Early revision of Kiddo PCB, a plug and play bluetooth module that transfers standard UART data to an electrical impedance tomography design with 8 and 32 electrodes. I am proficient in EagleCAD and Altium Designer and have a thorough systematic approach. I have worked with BGAs, FCC pre-qualified bluetooth modules, 24 bit ADC sensor modules, and am generally interested in analog electronics, particularly when it interfaces with the body."
 #url = "https://github.com/aerohub/hugrid"
 [[items]]
 title = "Electromagnetic Signature Detection"
