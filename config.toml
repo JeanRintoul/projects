@@ -9,7 +9,7 @@ title = "Jean Rintoul Portfolio"
 theme = "hugrid"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "G-3LNXQ0FFHC"
 
 contentdir = "content"
 datadir = "data"
@@ -19,10 +19,10 @@ publishdir = "docs"
 [params]
     # Meta
     title = "Portfolio"
-    subtitle = "Selections from history, further information on request."
+    subtitle = "Neurotechnology, acoustoelectric sensing, biomedical devices, and research translation."
     author = "Jean Rintoul"
     description = "Portfolio - bits and pieces from the past."
-    keywords = "Neuroscience, electromagnetism, sensors, signal processing, art, nature"
+    keywords = "Neurotechnology, sensors, innovation, ultrasound"
     
     # Body background color
 	bodybgcolor = "#f9f9f9"
@@ -31,4 +31,4 @@ publishdir = "docs"
     buttontext = "More Info"
     
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/jeanrintoul)"
+    footertext = "Made by [me](https://github.com/jeanrintoul)"
