@@ -1,6 +1,6 @@
 # Site settings
 # baseurl = "http://localhost:1313/projects/"
-baseurl = "https://jeanrintoul.github.io/projects/"
+baseurl = "https://jeanrintoul.com/projects/"
 languageCode = "en-us"
 builddrafts = false
 canonifyurls = true
@@ -18,11 +18,11 @@ publishdir = "docs"
 
 [params]
     # Meta
-    title = "Portfolio"
-    subtitle = "Neurotechnology, acoustoelectric sensing, biomedical devices, and research translation."
+    title = "Jean Rintoul"
+    subtitle = "Neurotechnology, acoustoelectrics, ultrasound, biomedical devices, and research translation."
     author = "Jean Rintoul"
-    description = "Portfolio - bits and pieces from the past."
-    keywords = "Neurotechnology, sensors, innovation, ultrasound"
+    description = "Research and projects in neurotechnology, acoustoelectrics, biomedical instrumentation, sensing, and device development."
+    keywords = "Jean Rintoul, neurotechnology, acoustoelectric, neuromodulation, ultrasound, biomedical devices, neurotechnology, sensing, instrumentation"
     
     # Body background color
 	bodybgcolor = "#f9f9f9"
@@ -31,4 +31,4 @@ publishdir = "docs"
     buttontext = "More Info"
     
     # Footer text
-    footertext = "Made by [me](https://github.com/jeanrintoul)"
+    footertext = ""
